@@ -1,0 +1,9 @@
+Questão 6:
+
+p++ = O endereço que o ponteiro vai assumir aumentará 4 casas, caso ele seja um inteiro.
+
+(*p)++ = A váriavel que o ponteiro "p" está ligado com, terá seu valor aumentado em um.
+
+*(p++) = O endereço ao qual o ponteiro está ligado aumentará em 4 casas caso seja um inteiro.
+
+*(p+10) = O endereço ao qual o ponteiro está ligado aumentará em 40 casas caso seja um inteiro.

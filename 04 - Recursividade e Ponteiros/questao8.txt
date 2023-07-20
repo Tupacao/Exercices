@@ -1,0 +1,3 @@
+Questão 8:
+
+O erro do programa se encontra no printf que está escrito assim "printf ( "\n%d\n", &q);" mas deveria ser escrito assim "printf("\n%d\n", **q);". 

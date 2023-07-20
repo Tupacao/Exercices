@@ -1,0 +1,6 @@
+Questão 7
+
+a) Errado: pois o valor da váriavel é diferente do seu endereço de memória.
+b) Certo: o ponteiro está apontando para o valor que a váriavel "valor" tem, logo o valor é igual ao "valor".
+c) Certo: o ponteiro está apontando para o endereço de memória da váriavel "valor", logo o endereço é igual ao endereço da váriavel.
+d) Errado: pelo "valor" ser uma váriavel e não um ponteiro o asterisco indica uma multiplicação, logo a expressão e comparação não podem ocorrer.

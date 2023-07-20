@@ -1,0 +1,9 @@
+Questão 10:
+
+//CÓDIGO 1
+
+Neste código o valor que está sofrendo alteração e sendo printado na tela é o valor do ponteiro e não o seu endereço, devido ao uso de asterisco antes do ponteiro. Portanto na estrutura de repetição "for" o valor do ponteiro que era 10 passa a ser acrecentado mais 5 e se se torna 15.
+
+//CÓDIGO 2
+
+Neste código o valor que está sofrendo alteração e sendo printado na tela é o endereço da memória e não o valor que o ponteiro está ligado com, devido a falta do uso de asterisco. Portanto na estrutura de repetição "for" o endereço de memória está sendo acrescentado 20 (5X4).
